@@ -1,0 +1,423 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Kaushan+Script&family=Nerko+One&display=swap');
+ 
+.bulb{
+	text-align: center;
+	float: left;
+	width: 100%;
+	margin-top: 15px;
+}
+.bulb img{
+	width: 90px;
+}
+.company_name{
+	width: 100%;
+	float: left;
+	height: 100px;
+	margin-top: -10px;
+	margin-left: -10px;
+	padding:10px;
+}
+.name h1 {
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Nerko One', cursive;
+	margin-top: -20px;
+}
+.name p {
+	text-align: center;
+	font-size: 18px;
+	font-family: 'roboto', cursive;
+	margin-top: -30px;
+	color:#006;
+}
+.name img{
+	width: 18px;
+}
+
+.navbar{
+	width:90%;
+	float: left;
+	height: auto;
+	padding:5px;
+	margin-top: 10px;
+	margin-left: 5%;
+	border-radius: 50px;
+	background-color:#006;
+}
+.navbar a{
+	text-decoration:none;
+	color: white;
+	font-size: 18px;
+	width: 9%;
+	text-align: center;
+	font-family: 'roboto',sans-serif;
+	float: left;
+	margin-left: 15px;
+}
+.navbar img{
+	width: 7%;
+	float: left;
+	margin-left: -10px;
+	margin-top: -10px;
+}
+#home{
+	background-color: white;
+	color: #006;
+	padding: 10px;
+	margin-top: -10px;
+	border-radius: 10px;
+}
+
+.jobs{
+	width: 90%;
+	margin-left: 13%;
+	float: left;
+	height: auto;
+
+}
+.jobs p{
+	width: 11%;
+	height: 30px;
+	padding: 10px;
+	float: left;
+	margin-left: 10px;
+	border-radius: 20px;
+	text-align: center;
+	border:solid black 1px;
+	color: white;
+	font-size: 20px;
+}
+.jobs-div-one p{
+	background-color: purple;
+}
+.jobs-div-two p{
+	background-color: yellowgreen;
+}
+.jobs-div-three p{
+	background-color: green;
+}
+.jobs-div-four p{
+	background-color:gray;
+}
+.jobs-div-five p{
+	background-color: red;
+}
+.jobs-div-six p{
+	background-color: darkblue;
+}
+
+.good_news{
+	width: 85%;
+	float: left;
+	margin-left: 12%;
+}
+
+.good_news img{
+	width: 5%;
+	float: left;
+	margin-top: -5px;
+}
+.good_news p{
+  color:darkdarkblue;
+  font-family: 'roboto',sans-serif;
+  font-size: 25px;
+  float: left;
+  margin-top: 12px;
+	}
+
+.telegram{
+	width: 60%;
+	float: left;
+	margin-left: 25%;
+	margin-top: -30px;
+}
+	.telegram img{
+	width: 5%;
+	float: left;
+	margin-top: -5px;
+	margin-right: 10px;
+}
+.telegram p{
+  color:darkdarkblue;
+  font-family: 'roboto',sans-serif;
+  font-size: 25px;
+  float: left;
+  margin-top: 12px;
+	}
+
+
+.last_date{
+	width: 80%;
+	height:50px;
+	border:dashed black 1px;
+	float: left;
+	padding: 4px;
+	margin-left: 10%;
+}
+
+.last_date h1{
+	width:22%;
+	font-family: 'roboto',sans-serif;
+	color: white;
+	font-size: 28px;
+	padding: 4px;
+	height: 52px;
+	background-color: red;
+	float: left;
+	margin-left: -5px;
+	margin-top: -5px;
+}
+.link{
+	width:70%;
+	float: left;
+	margin-left: 237px; 
+	margin-top: -80px;
+}
+
+.link p{
+	margin-top:2px;
+}
+
+.vac-img{
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 10px;
+	float: left;
+}
+.vac-img img{
+	width:100%;
+}
+
+
+.updates{
+	width:79%;
+	margin-left: 10%;
+	height: auto;
+	float: left;
+	padding: 10px;
+	margin-top: 10px;
+	border:dashed yellowgreen 2px;
+}
+.heading{
+	width: 100%;
+	height: 50px;
+	background: linear-gradient(142deg,#833ab4 0%,#ff0097 50%,#fbc531 100%);
+	border-radius:50px;
+	font-size: 35px;
+	color: white;
+	font-family: 'roboto',sans-serif;
+	text-align: center;
+}
+.one{
+	width: 30%;
+	float: left;
+	margin-left: 15px;
+    margin-top: 10px;
+	padding: 5px;
+}
+.one li{
+	border-bottom:dotted gray 1px;
+	margin-top: 8px;
+}
+.heading img{
+	width: 8%;
+}
+
+.div{
+	width: 22%;
+	height: 80px;
+	background-color: darkblue;
+	float: left;
+		text-align: center;
+	font-size: 12px;
+	color: white;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.div-one{
+	width: 22%;
+	height: 80px;
+	background-color: darkblue;
+	float: left;
+	color: white;
+	margin-left: 20px;
+	margin-top: 20px;
+		text-align: center;
+	font-size: 12px;
+}
+.div-two{
+	width: 22%;
+	height: 80px;
+	color: white;
+	background-color: darkblue;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+		text-align: center;
+	font-size: 12px;
+}
+.div-three{
+	width: 22%;
+	color: white;
+	height: 80px;
+	background-color: darkblue;
+	float: left;
+	margin-left: 20px;
+		text-align: center;
+	font-size: 12px;
+	margin-top: 20px;
+}
+.div-four{
+	width: 22%;
+	height: 80px;
+	background-color: darkblue;
+	float: left;
+	color: white;
+		text-align: center;
+	font-size: 12px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.div-five{
+	width: 22%;
+	height: 80px;
+	background-color: darkblue;
+	float: left;
+	color: white;
+	margin-left: 20px;
+	margin-top: 20px;
+		text-align: center;
+	font-size: 12px;
+}
+.div-six{
+	width: 22%;
+	height: 80px;
+	color: white;
+	background-color: darkblue;
+	float: left;
+	margin-left: 20px;
+		text-align: center;
+	font-size: 12px;
+	margin-top: 20px;
+}
+.div-seven{
+	width: 22%;
+	color: white;
+	height: 80px;
+	background-color: darkblue;
+	float: left;
+	margin-left: 20px;
+		color: white;
+	text-align: center;
+	font-size: 12px;
+	margin-top: 20px;
+}
+
+.one h1{
+	text-align: center;
+	color: white;
+	font-size: 22px;
+	background-color: purple;
+}
+
+
+.footer_div{
+	width:90%;
+	float: left;
+	height:50px;
+	padding:5px;
+	margin-top: 10px;
+	margin-left: 5%;
+	border-radius: 50px;
+	background-color:#006;
+}
+.footer_div a{
+	text-decoration:none;
+	color: white;
+	font-size: 18px;
+	width: auto;
+	text-align: center;
+	font-family: 'roboto',sans-serif;
+	float: left;
+	margin-left: 15px;
+}
+@media screen and (max-width: 1250px) {
+
+.navbar{
+	width:100%;
+	float: left;
+	height: auto;
+	padding:5px;
+	margin-top: 10px;
+	margin-left: 0%;
+	border-radius: 50px;
+	background-color:#006;
+}
+.jobs{
+	width: 100%;
+	margin-left: 0%;
+	float: left;
+	height: auto;
+
+}
+.updates{
+	width:100%;
+	margin-left: 0%;
+	height: auto;
+	float: left;
+	padding: 10px;
+	margin-top: 10px;
+	border:dashed yellowgreen 2px;
+}
+
+.vac-img{
+	width: 100%;
+	margin-left: 0%;
+	margin-top: 10px;
+	float: left;
+}
+.last_date{
+	width: 100%;
+	height:50px;
+	border:dashed black 1px;
+	float: left;
+	padding: 4px;
+	margin-left: 0%;
+}
+
+.jobs p{
+	width: 12%;
+	height: 20px;
+	float: left;
+	margin-left: 2px;
+	border-radius: 50px;
+	text-align: center;
+	border:solid black 1px;
+	padding: 20px;
+	color: white;
+	font-family: 'roboto',sans-serif;
+	font-size: 18px;
+}
+
+.footer_div{
+	width:100%;
+	float: left;
+	height:50px;
+	padding:5px;
+	margin-top: 10px;
+	margin-left: 0%;
+	border-radius: 50px;
+	background-color:#006;
+}
+.footer_div a{
+	text-decoration:none;
+	color: white;
+	font-size: 18px;
+	width: auto;
+	text-align: center;
+	font-family: 'roboto',sans-serif;
+	float: left;
+	margin-left: 15px;
+}
+}
